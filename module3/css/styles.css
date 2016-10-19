@@ -1,4 +1,8 @@
 
+body {
+	background-color: lightyellow;
+}
+
 #nav-list a {
   background-color:lightblue;
   color:black;
